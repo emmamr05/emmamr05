@@ -1,7 +1,7 @@
 # Welcome to my GitHub!
 My name is Emmanuel Méndez, I'm a Software Developer.
 
-## Currently:
+## Currently
 - Learning DevOps fundamentals.
   <img align="center" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
